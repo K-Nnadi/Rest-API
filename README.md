@@ -1,2 +1,2 @@
 # Rest-API
-A simple Rest API using Express framework, PostgreSQL, and coding with TypeScript
+A simple Rest API using Express framework, MYSQL, and coding with TypeScript
